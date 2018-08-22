@@ -1,9 +1,12 @@
 # Exploratory Data Analyis on Facebook dataset
 The dataset consists of Facebook Users details like friends, likes, gender and tenure details. 
 
-Data columns (total 15 columns): \n
+Data columns (total 15 columns): 
+
 userid                   99003 non-null int64
+
 age                      99003 non-null int64
+
 dob_day                  99003 non-null int64
 dob_year                 99003 non-null int64
 dob_month                99003 non-null int64
